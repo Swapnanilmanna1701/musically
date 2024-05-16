@@ -1,0 +1,185 @@
+[
+    {
+      "id": 1,
+      "title": "Tum Hi Ho",
+      "singer": "Arijit Singh",
+      "label": "T-Series",
+      "music_artist": "Mithoon",
+      "movie": "Aashiqui 2",
+      "year": 2013
+    },
+    {
+      "id": 2,
+      "title": "Chaiyya Chaiyya",
+      "singer": "Sukhwinder Singh, Sapna Awasthi",
+      "label": "Venus",
+      "music_artist": "A.R. Rahman",
+      "movie": "Dil Se",
+      "year": 1998
+    },
+    {
+      "id": 3,
+      "title": "Gerua",
+      "singer": "Arijit Singh, Antara Mitra",
+      "label": "Sony Music India",
+      "music_artist": "Pritam",
+      "movie": "Dilwale",
+      "year": 2015
+    },
+    {
+      "id": 4,
+      "title": "Tum Mile",
+      "singer": "Neeraj Shridhar",
+      "label": "Sony Music India",
+      "music_artist": "Pritam",
+      "movie": "Tum Mile",
+      "year": 2009
+    },
+    {
+      "id": 5,
+      "title": "Ae Dil Hai Mushkil",
+      "singer": "Arijit Singh",
+      "label": "Sony Music India",
+      "music_artist": "Pritam",
+      "movie": "Ae Dil Hai Mushkil",
+      "year": 2016
+    },
+    {
+      "id": 6,
+      "title": "Kal Ho Naa Ho",
+      "singer": "Sonu Nigam",
+      "label": "Sony Music India",
+      "music_artist": "Shankar-Ehsaan-Loy",
+      "movie": "Kal Ho Naa Ho",
+      "year": 2003
+    },
+    {
+      "id": 7,
+      "title": "Dil Diyan Gallan",
+      "singer": "Atif Aslam",
+      "label": "YRF Music",
+      "music_artist": "Vishal-Shekhar",
+      "movie": "Tiger Zinda Hai",
+      "year": 2017
+    },
+    {
+      "id": 8,
+      "title": "Jai Ho",
+      "singer": "Sukhwinder Singh, Mahalakshmi Iyer",
+      "label": "T-Series",
+      "music_artist": "A.R. Rahman",
+      "movie": "Slumdog Millionaire",
+      "year": 2008
+    },
+    {
+      "id": 9,
+      "title": "Dil Chahta Hai",
+      "singer": "Shankar Mahadevan, Clinton Cerejo",
+      "label": "T-Series",
+      "music_artist": "Shankar-Ehsaan-Loy",
+      "movie": "Dil Chahta Hai",
+      "year": 2001
+    },
+    {
+      "id": 10,
+      "title": "Dheere Dheere",
+      "singer": "Yo Yo Honey Singh",
+      "label": "T-Series",
+      "music_artist": "Yo Yo Honey Singh",
+      "movie": "None (Single Release)",
+      "year": 2015
+    },
+    
+        {
+          "id": 10,
+          "title": "Shape of You",
+          "singer": "Ed Sheeran",
+          "label": "Atlantic Records",
+          "music_artist": "Ed Sheeran",
+          "movie": "None (Single Release)",
+          "year": 2017
+        },
+        {
+          "id": 11,
+          "title": "Billie Jean",
+          "singer": "Michael Jackson",
+          "label": "Epic Records",
+          "music_artist": "Michael Jackson",
+          "movie": "None (Single Release)",
+          "year": 1983
+        },
+        {
+          "id": 12,
+          "title": "Bohemian Rhapsody",
+          "singer": "Queen",
+          "label": "EMI",
+          "music_artist": "Queen",
+          "movie": "None (Single Release)",
+          "year": 1975
+        },
+        {
+          "id": 13,
+          "title": "Rolling in the Deep",
+          "singer": "Adele",
+          "label": "XL Recordings",
+          "music_artist": "Adele",
+          "movie": "None (Single Release)",
+          "year": 2010
+        },
+        {
+          "id": 14,
+          "title": "Uptown Funk",
+          "singer": "Mark Ronson ft. Bruno Mars",
+          "label": "Columbia Records",
+          "music_artist": "Mark Ronson",
+          "movie": "None (Single Release)",
+          "year": 2014
+        },
+        {
+          "id": 15,
+          "title": "Hey Jude",
+          "singer": "The Beatles",
+          "label": "Apple Records",
+          "music_artist": "The Beatles",
+          "movie": "None (Single Release)",
+          "year": 1968
+        },
+        {
+          "id": 16,
+          "title": "Hotel California",
+          "singer": "Eagles",
+          "label": "Asylum",
+          "music_artist": "Eagles",
+          "movie": "None (Single Release)",
+          "year": 1977
+        },
+        {
+          "id": 17,
+          "title": "Stairway to Heaven",
+          "singer": "Led Zeppelin",
+          "label": "Atlantic Records",
+          "music_artist": "Led Zeppelin",
+          "movie": "None (Single Release)",
+          "year": 1971
+        },
+        {
+          "id": 18,
+          "title": "Thriller",
+          "singer": "Michael Jackson",
+          "label": "Epic Records",
+          "music_artist": "Michael Jackson",
+          "movie": "None (Single Release)",
+          "year": 1982
+        },
+        {
+            "id": 19,
+            "title": "Like a Prayer",
+            "singer": "Madonna",
+            "label": "Sire Records",
+            "music_artist": "Madonna",
+            "movie": "None (Single Release)",
+            "year": 1989
+          }
+
+  ]
+  
