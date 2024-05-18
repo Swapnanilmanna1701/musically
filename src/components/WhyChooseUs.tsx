@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import { StickyScroll } from "./ui/sticky-scroll-reveal";
+
 const musicSchoolContent = [
     {
       title: 'Discover Your Sound with Us: A Personal Journey in Music Mastery',
