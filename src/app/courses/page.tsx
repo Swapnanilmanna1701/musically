@@ -42,6 +42,8 @@ function page() {
                     >
                       Try now →
                     </CardItem>
+                    
+                    
                     <CardItem
                       translateZ={20}
                       as="button"
@@ -49,6 +51,7 @@ function page() {
                     >
                       Sign up
                     </CardItem>
+                    
                   </div>
                 </CardBody>
               </CardContainer>
