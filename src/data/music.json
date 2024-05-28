@@ -67,7 +67,7 @@
       "description": "Learn the essentials of songwriting to express your musical creativity.",
       "price": 159.99,
       "instructor": "Samantha Miller",
-      "isFeatured": false,
+      "isFeatured": true,
       "image": "/courses/song-writing.jpg"
     },
     {
