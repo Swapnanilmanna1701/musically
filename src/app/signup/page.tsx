@@ -14,9 +14,9 @@ function page() {
     console.log("Form submitted");
   };
   return (
-    <div className="max-w-md w-full mx-auto rounded-none md:rounded-2xl p-1 md:p-4 mt-20 mb-20 justify-center shadow-input bg-white dark:bg-black">
-      <h2 className="font-bold text-xl text-neutral-800 dark:text-neutral-200">
-        Signup for Free:
+    <div className="max-w-md w-full mx-auto rounded-none md:rounded-2xl py-2 md:p-10 mt-40 mb-11 shadow-input bg-black dark:bg-black">
+      <h2 className="font-bold text-xl text-neutral-800 dark:text-neutral-200 text-center">
+        Signup for Free:)
       </h2>
       <form className="my-10" onSubmit={handleSubmit}>
         <div className="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-2 mb-4">
